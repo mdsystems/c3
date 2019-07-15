@@ -1,0 +1,10 @@
+{
+    "name": "mdsystems/c3",
+    "description": "Forked version of c3 https://github.com/c3js/c3",
+    "type": "library",
+    "require": {
+        "components/jquery": "^3.3"
+    },
+    "license": "MIT",
+    "minimum-stability": "dev"
+}
